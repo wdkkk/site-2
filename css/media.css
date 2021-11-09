@@ -1,0 +1,1493 @@
+@media (max-width: 1900px) {
+	.slick__slider__doc {
+		max-width: 96%;
+		margin: 0 auto;
+	}
+	.slick__slider__clin {
+		max-width: 96%;
+		margin: 0 auto;
+	}
+}
+
+@media (max-width: 1840px) {
+	.rate__info__link {
+		max-width: 85%;
+	}
+	.serv__rate__info__icon {
+		max-width: 100%;
+	}
+	.serv__rate__info__icon img {
+		max-width: 100%;
+	}
+}
+
+@media (max-width: 1830px) {
+	.container {
+	    max-width: 95%;
+	}
+}
+
+@media (max-width: 1750px) {
+	.process__info__el {
+	    width: 27%;
+	}
+	.process__info__el__text {
+	    font-size: 20px;
+	}
+	.process__info__el__title {
+	    font-size: 34px;
+	}
+	.process__info__el__icon {
+	    max-width: 317px;
+	    margin: 0 auto;
+	}
+	.adv__info__img img {
+		width: 100%;
+	}
+	.adv__info__img {
+		width: 85%;
+	}
+	.adv__info__row {
+	    align-items: flex-end;
+	}
+}
+
+@media (max-width: 1730px) {
+	.calc__form__right input {
+	    width: 385px;
+	}
+	#calc__phone {
+	    width: 565px;
+	}
+	#calc__name {
+	    width: 460px;
+	}
+	.prices__blocks__row {
+	    display: block;
+	}
+	.prices__blocks {
+	    display: flex;
+	}
+	.prices__blocks {
+	    display: flex;
+	    justify-content: space-between;
+	    max-width: 870px;
+	    margin: 0 auto;
+	}
+	.prices__blocks__el {
+	    margin-bottom: 55px;
+	}
+	.top__desc__el {
+		max-width: 375px;
+	}
+	.top__desc__el__title {
+		font-size: 30px;
+	}
+	.top__desc__el__text {
+		font-size: 20px;
+	}
+	.top__desc__row {
+	    max-width: 1250px;
+	    margin: 0 auto;
+	}
+}
+
+@media (max-width: 1710px) {
+	.process__info__el__title {
+	    font-size: 30px;
+	    line-height: 36px;
+	}
+}
+
+@media (max-width: 1655px) {
+	.footer__info__column {
+	    font-size: 20px;
+	}
+	.footer__info__column__sched {
+		max-width: 205px;
+	}
+}
+
+@media (max-width: 1640px) {
+	.top__offer__el {
+		width: 330px;
+	}
+}
+
+@media (max-width: 1600px) {
+	.process__info__el__icon img {
+		width: 100%;
+	}
+	.process__info__el__icon {
+		width: 80%;
+	}
+	.process__info__el {
+	    height: 465px;
+	}
+}
+
+@media (max-width: 1590px) {
+	.header__info__adres {
+	    width: 760px;
+	}
+}
+
+@media (max-width: 1560px) {
+	.calc__form__right input {
+	    width: 290px;
+	}
+	.calc__form__left__row__top {
+	    width: 995px;
+	}
+	#calc__phone {
+	    width: 490px;
+	}
+	#calc__phone + label::before {
+	    left: -483px;
+	}
+	#calc__name + label::before {
+	    left: -458px;
+	}
+} 
+
+@media (max-width: 1500px) {
+	.serv__type__el__title {
+	    font-size: 19px;
+	}
+	.prices {
+		background-image: url();
+		background-color: #ebf3fd;
+	}
+	.impl__info__el__img {
+		width: 66%;
+	}
+	.impl__info__el__img img {
+		width: 100%;
+	}
+	.impl__info__el {
+	    width: 235px;
+	}
+}
+
+@media (max-width: 1465px) {
+	.p5__price__row {
+	    max-width: 75%;
+	    margin: 0 auto;
+	}
+} 
+
+@media (max-width: 1460px) {
+	.header__info__adres {
+		display: block;
+	    width: 340px;
+	    margin: 0 auto;
+	}
+	.process__info__el__title {
+	    font-size: 28px;
+	    line-height: 33px;
+	}
+	.process__info__el {
+	    height: 440px;
+	}
+} 
+
+@media (max-width: 1455px) {
+	.serv {
+	    margin-bottom: 50px;
+	}
+	.adv__info__col__el {
+	    width: 760px;
+	}
+	.adv__info__col__el {
+	    width: 712px;
+	}
+}
+
+@media (max-width: 1440px) {
+	.top__offer__row {
+	    flex-wrap: wrap;
+	    max-width: 710px;
+	    margin: 0 auto;
+	}
+	.thirdpage__top__offer__row {
+	    flex-wrap: nowrap;
+	    max-width: 1205px;
+	    margin: 0 auto 105px;
+	    position: relative;
+	    top: -50px;
+	}
+	.top__offer__el {
+	    margin-bottom: 40px;
+	}
+	.top__offer {
+	    position: relative;
+	    top: 125px;
+	}
+	.appoint {
+	    background-size: 100% 125%;
+	}
+}
+
+@media (max-width: 1400px) {
+	.footer__info__column {
+	    font-size: 18px;
+	}
+}
+
+@media (max-width: 1415px) {
+	.impl {
+	    margin-bottom: 100px;
+	}
+}
+
+@media (max-width: 1365px) {
+	.calc__form__right input {
+	    width: 250px;
+	}
+	.calc__form__left__row__top {
+	    width: 964px;
+	}
+} 
+
+@media (max-width: 1355px) {
+	.slick__slider__doc {
+	    max-width: 93%;
+	    margin: 0 auto;
+	}
+	.slick__slider__clin {
+	    max-width: 93%;
+	    margin: 0 auto;
+	}
+}
+
+@media (max-width: 1310px) {
+	.impl__info__el__img {
+	    width: 60%;
+	}
+	.impl__info__el {
+	    width: 215px;
+	    height: 355px;
+	}
+}
+
+@media (max-width: 1290px) {
+	#calc__phone {
+	    width: 400px;
+	}
+	#calc__name {
+	    width: 370px;
+	}
+	.calc__form__left__row__top {
+	    width: 795px;
+	}
+	#calc__phone + label::before {
+	    left: -390px;
+	}
+	#calc__name + label::before {
+	    left: -365px;
+	}
+	.p5__price__row {
+	    max-width: 90%;
+	}
+	.header__info {
+	    margin-bottom: 20px;
+	}
+	.top__desc {
+	    padding-top: 210px;
+	}
+	.header__info__adres__el {
+	    font-size: 22px;
+	}
+	.top__title	{
+		font-size: 22px
+	}
+	.top__desc {
+	    margin-bottom: 45px;
+	    padding-top: 120px;
+	}
+	.header__info__contacts__phone a {
+	    font-size: 32px;
+	}
+	.header__info__adres__el {
+	    margin-bottom: 11.5px;
+	}
+	.top__desc__el__title {
+	    font-size: 28px;
+	}
+	.top__desc__el__text {
+	    font-size: 18px;
+	}
+	.header {
+	    padding-top: 20px;
+	}
+	.top__top-part {
+	    padding-top: 25px;
+	}
+	.top__button a {
+	    font-size: 31px;
+	    padding: 14px 35px;
+	}
+} 
+
+@media (max-width: 1270px) {
+	.top__desc__el {
+	    max-width: 327px;
+	}
+}
+
+@media (max-width: 1260px) {
+	.process__info__el__text {
+	    font-size: 18px;
+	    line-height: 26px;
+	}
+	.process__info__el {
+	    height: 405px;
+	}
+} 
+
+@media (max-width: 1255px) {
+	.footer__info__column {
+	    font-size: 17px;
+	}
+}
+
+@media (max-width: 1200px) {
+	.btn__menu {
+		display: block;
+		padding-top: 20px
+	}
+	.menu__list {
+		display: none;
+		width: 110%;
+	    position: relative;
+	    bottom: 0px;
+	    right: 75px;
+	    margin: 0 auto;
+	    padding: 0px 0px;
+	    top: 5px;
+	}
+	.menu__list li {
+		text-align: center;
+		padding: 0 0;
+	}
+	.menu__list a {
+		display: block;	
+		padding: 10px 0;
+		background-color: rgba(255, 255, 255, 0.8);;
+		z-index: 2;
+	}
+	.nav__row {
+		max-width: 100%
+	}
+	.nav {
+	    height: 65px;
+	}
+	.serv__types__row {
+		display: block;
+	}
+	.serv__type__el {
+		margin: 0 auto 80px;
+	}
+	.serv__microsc__info__text__desc {
+	    font-size: 24px;
+	}
+	.serv__rate__info__row {
+	    display: block;
+	}
+	.serv__rate__info__el {
+	    margin-bottom: 40px;
+	}
+	.we__people__row {
+	    display: block;
+	    max-width: 370px;
+	    margin: 0 auto;
+	}
+	.we__people__column {
+		margin-bottom: 60px;
+	}
+	.slick__slider__doc div {
+	    height: 780px;
+	}
+	.slick__slider__clin div {
+	    height: 780px;
+	}
+	.prices__blocks {
+	    display: block;
+	    max-width: 397px;
+	}
+	.callb {
+		background-image: url('');
+	}
+	.callb__form {
+		margin: 0 auto;
+	}
+	.callb__form__button {
+		margin: 0 auto 60px;
+	}
+	.footer__info__column {
+	    font-size: 23px;
+	}
+	.footer__info__row {
+		display: block;
+		width: 381px;
+		margin: 0 auto;
+	}
+	.footer__info__column {
+	    margin-bottom: 140px;
+	}
+	.serv__types__row {
+	    display: flex;
+	    flex-wrap: wrap;
+	    max-width: 762px;
+	    margin: 0 auto;
+	}
+	.impl__info__row {
+	    display: block;
+	    max-width: 350px;
+	    margin: 0 auto;
+	}
+	.impl__info__el {
+	    width: 100%;
+	    height: 45vw;
+	    margin-bottom: 45px;
+	}
+	.impl__info__el__img {
+	    width: 18vw;
+	}
+	.appoint {
+		background-color: #e9f2fd;
+		background-image: url();
+	}
+	.appoint__button {
+		margin: 0 auto;
+	}
+	.process__row {
+	    display: block;
+	    width: 50%;
+	    margin: 0 auto;
+	}
+	.process__info__el {
+	    height: 405px;
+	    margin-bottom: 68px;
+	    width: 100%;
+	}
+	.adv__info__img {
+		display: none;
+	}
+	.adv__info__col__el {
+	    width: 100%;
+	}
+	.adv__info__row {
+	    width: 70%;
+	    margin: 0 auto;
+	}
+	.adv__info {
+	    margin-bottom: 95px;
+	}
+	.p5__price__el__text___text {
+	    font-size: 21px;
+	}
+	.p5__price__el__text__title {
+	    font-size: 28px;
+	}
+	.footer {
+		padding-bottom: 1px;
+	}
+	#prices__blocks__el__last {
+		margin-bottom: 0;
+	}
+	.prices {
+		padding-bottom: 31px;
+	}
+	.serv__type__el__icon {
+	    margin-bottom: 12px;
+	}
+	.prices__blocks__choise__row {
+	    margin-bottom: 35px;
+	}
+	.prices__blocks__title {
+	    margin-bottom: -10px;
+	}
+	.title {
+		text-align: center;
+	}
+	.accordion, .accordion_active {
+	    font-size: 3.5vw;
+	    line-height: 4vw;
+	}
+	.panel {
+	    font-size: 3vw;
+	    line-height: 3.4vw;
+	}
+	.price__item__text {
+	    font-size: 2vw;
+	}
+	.price__item__cost {
+	    font-size: 2.15vw;
+	}
+}
+
+@media (max-width: 1185px) {
+	.top__desc__row {
+	    display: block;
+	}
+	.top__desc__el {
+	    margin: 0 auto 30px;
+	    max-width: 550px;
+	}
+	.top__desc {
+	    padding-top: 65px;
+	}
+}
+
+@media (max-width: 1135px) {
+	.calc__form__left__row__top {
+	    width: 805px;
+	    margin: 0 auto 45px;
+	}
+	.calc__form__left__row__bottom {
+	    margin: 0 auto 37px;
+	}
+	.calc__form__right {
+		width: 25%;
+		margin: 0 auto;
+	}
+	.calc__form__right input {
+	    width: 100%;
+	}
+	.calc__form__row {
+	    display: block;
+	}
+}
+
+@media (max-width: 1120px) {
+	.serv__microsc__under__ad {
+		display: inline;
+	}
+	.serv__microsc__under {
+		display: none;
+	}
+}
+
+@media (max-width: 1100px) {
+	.slick__slider__doc {
+	    max-width: 85%;
+	}
+	.slick__slider__clin {
+	    max-width: 85%;
+	}
+} 
+
+@media (max-width: 1095px) {
+	.serv__microsc__info__icon {
+	    width: 300px;
+	}
+	.thirdpage__top__offer__row {
+	    flex-wrap: wrap;
+	    max-width: 332px;
+	}
+	.top__info {
+	    margin-bottom: 75px;
+	}
+	.top__info__main__text {
+	    font-size: 59px;
+	    line-height: 74px;
+	}
+
+	.p5__price {
+		padding-top: 105px;
+	}
+}
+
+@media (max-width: 1085px) {
+	.adv__info__col__el__title {
+	    font-size: 24px;
+	}
+	.adv__info__col__el__text {
+	    font-size: 22px;
+	    line-height: 27px;
+	}
+} 
+
+@media (max-width: 1055px) {
+	.p5__price__row {
+	    max-width: 100%;
+	}
+}
+
+@media (max-width: 1015px) {
+	#header__info__desc {
+		display: none;
+	}
+	#header__info__mobile {
+		display: inline;
+	}
+	.header {
+		padding-top: 0;
+	}
+	.nav {
+	    height: 110px;
+	    margin-bottom: 25px;
+	}
+	.btn__menu {
+	    padding-top: 43px;
+	}
+	.menu__list a {
+    	background-color: #fff;
+    }
+    .menu__list {
+    	z-index: 2;
+    	bottom: -17px;
+    }
+    .header__info__adres {
+    	z-index: 1;
+    }
+}
+
+@media (max-width: 1000px) {
+	#header__info__mobile {
+		display: none;
+	}
+	.nav .container {
+		display: flex;
+		justify-content: space-between;
+	}
+	.header__info__ad-logo {
+		padding-top: 8px;
+		width: 110px;
+		display: inline;
+	}
+	.header__info__ad-logo img {
+		width: 100%;
+	}
+	.nav {
+	    margin-bottom: 0;
+	}
+	.adv__info__col__el {
+	    min-height: 200px;
+	}
+}
+
+@media (max-width: 990px) {
+	.top__info__title {
+	    text-align: center;
+	}
+	.top__info__text {
+		text-align: center;
+	}
+	.top__button__secondpage {
+	    text-align: center;
+	}
+	.top__info {
+	    margin-bottom: 10px;
+	}
+	.top__info {
+	    padding-top: 70px;
+	}
+	.top__info__main__text {
+		text-align: center;
+	}
+} 
+
+@media (max-width: 985px) {
+	.top__title {
+		font-size: 22px;
+		max-width: 100%;
+	}
+}
+
+@media (max-width: 965px) {
+	.top__info__main__text {
+	    font-size: 53px;
+	    line-height: 68px;
+	}
+}
+
+@media (max-width: 950px) {
+	.p5__price__row {
+	    max-width: 55vw;
+	}
+}
+
+@media (max-width: 930px) {
+	.top__info__title {
+	    font-size: 50px;
+	}
+	.top__info__text {
+	    font-size: 33px;
+	    line-height: 41px;
+	}
+}
+
+@media (max-width: 905px) {
+	.calc__form__right input {
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 895px) {
+	.top__info__main__text {
+	    font-size: 48px;
+	    line-height: 55px;
+	}
+}
+
+@media (max-width: 875px) {
+	.serv__microsc__info__icon img {
+		width: 65%;
+	}
+	.serv__microsc__under {
+	    font-size: 22px;
+	}
+	.adv__info__col__el {
+	    min-height: 215px;
+	}
+	.adv__info__col {
+	    height: 770px;
+	}
+}
+
+@media (max-width: 865px) {
+	.serv__microsc__info__text__desc {
+	    font-size: 22px;
+	}
+}
+
+@media (max-width: 830px) {
+	.calc__form__left__row__top {
+	    width: 100%;
+	    flex-direction: column;
+	}
+	.calc__form__left__row__top input {
+		margin: 0 auto;
+	}
+}
+
+@media (max-width: 810px) {
+	.top__info__main__text {
+	    font-size: 6vw;
+	    line-height: 8vw;
+	}
+}
+
+@media (max-width: 800px) {
+	.menu__list {
+	    width: 122%;
+	}
+}
+
+@media (max-width: 755px) {
+	.callb__form {
+	    width: 95%;
+	}
+	.callb__form__button {
+		width: 95%;
+	}
+	.process {
+	    padding-top: 100px;
+	}
+}
+
+@media (max-width: 745px) {
+	.top__info__title {
+	    line-height: 60px;
+	    font-size: 43px;
+	}
+	.top__info__text {
+	    font-size: 27px;
+	    line-height: 33px;
+	}
+	.price__item__text {
+	    font-size: 2.5vw;
+	    line-height: 0;
+	}
+	.price__item__cost {
+	    font-size: 2.65vw;
+	}
+}
+
+@media (max-width: 735px) {
+	.top__title {
+	    font-size: 20px;
+	}
+}
+
+@media (max-width: 720px) {
+	.calc__form__right input {
+	    font-size: 27px;
+	    height: 73px;
+	}
+	.calc__form__right {
+		width: 50%;
+	}
+	.calc__form__checkbox__title {
+	    font-size: 18px;
+	}
+	.calc__form__left__row__bottom {
+	    width: 60%;
+	    justify-content: flex-start;
+	}
+	.calc__form__left__row__bottom input {
+	    scale: 1.6;
+	    margin-right: 15px;
+	}
+	.top__offer__el {
+	    width: 275px;
+	}
+	.top__offer__el__title {
+	    font-size: 20px;
+	}
+	.top__offer__row {
+	    justify-content: space-around;
+	}
+} 
+
+@media (max-width: 700px) {
+	.serv__microsc__info__icon img {
+	    width: 75%;
+	}
+	.certif__doc__top-part__row {
+	    display: block;
+	    margin-bottom: 60px;
+	}
+	.certif__clin__top-part__row {
+	    display: block;
+	    margin-bottom: 60px;
+	}
+	.serv__microsc__under__ad {
+	    font-size: 19px;
+	}
+	.adv__info__col__el {
+	    min-height: 240px;
+	}
+	.adv__info__col__el__text {
+	    font-size: 20px;
+	    line-height: 24px;
+	}
+	.adv__info__col__el__title {
+	    font-size: 23px;
+	}
+	.adv__info__col {
+	    height: 810px;
+	}
+}
+
+@media (max-width: 670px) {
+	.price__item {
+	    height: 75px;
+	    padding: 21px 38px;
+	}
+	.prices__column {
+	    height: 600px;
+	}
+	.p5__price__el__text__title {
+	    font-size: 26px;
+	    line-height: 33px;
+	}
+	.p5__price__el__text___text {
+	    font-size: 19px;
+	}
+	.top__info__main__text {
+	    font-size: 7vw;
+	    line-height: 8vw;
+	}
+}
+
+@media (max-width: 660px) {
+	.serv__microsc__under {
+	    font-size: 20px;
+	}
+	.serv__microsc__info__text__title {
+	    font-size: 36px;
+	}
+	.appoint__title {
+		text-align: center;
+	}
+}
+
+@media (max-width: 645px) {
+	.process__row {
+	    width: 70%;
+	}
+}
+
+@media (max-width: 630px) {
+	.top__button__secondpage a {
+	    font-size: 25px;
+	}
+	.top__offer {
+	    top: 90px;
+	}
+	.top__offer__el__title {
+	    font-size: 18px;
+	}
+	.top__offer__el {
+	    width: 248px;
+	}
+}
+
+@media (max-width: 615px) {
+	.slick__slider__doc {
+	    max-width: 75%;
+	}
+	.slick__slider__doc div {
+	    height: 660px;
+	}
+	.slick__slider__clin {
+	    max-width: 75%;
+	}
+	.slick__slider__clin div {
+	    height: 660px;
+	}
+}
+
+@media (max-width: 610px) {
+	.top__info__title {
+	    line-height: 52px;
+	    font-size: 39px;
+	}
+	.top__info__text {
+	    font-size: 25px;
+	    line-height: 31px;
+	}
+	.top__button__secondpage a {
+	    font-size: 21px;
+	}
+}
+
+@media (max-width: 600px) {
+	.serv__microsc__info__icon {
+		display: none;
+	}
+	.adv__info__col__el__title {
+	    font-size: 21px;
+	}
+	.adv__info__col__el {
+	    min-height: 260px;
+	}
+	.adv__info__col {
+	    height: 875px;
+	}
+}
+
+@media (max-width: 565px) {
+	.top__title {
+	    font-size: 19px;
+	}
+	.top__button a {
+	    font-size: 25px;
+	    padding: 13px 15px;
+	}
+} 
+
+@media (max-width: 560px) {
+	.serv__microsc {
+	    padding: 18px 45px;
+	}
+	.serv__microsc__under {
+	    font-size: 19px;
+	}
+	.serv__microsc__info__text__desc {
+	    font-size: 22px;
+	}
+	.serv__microsc__info__text__title {
+	    font-size: 34px;
+	}
+	.top__info__title {
+	    line-height: 44px;
+	    font-size: 35px;
+	    margin-bottom: 20px;
+	}
+	.top__info__text {
+	    font-size: 24px;
+	    line-height: 28px;
+	}
+	.top__button__secondpage a {
+	    font-size: 20px;
+	}
+	.top__info__text {
+	    margin-bottom: 45px;
+	}
+}
+
+@media (max-width: 555px) {
+	.top__offer__el {
+	    width: 100%;
+	}
+	.top__offer__el__title {
+	    font-size: 24px;
+	}
+	.adv__info__col__el__title {
+	    font-size: 20px;
+	    line-height: 23px;
+	}
+	.adv__info__row {
+	    width: 90%;
+	}
+	.p5__price__row {
+	    max-width: 85vw;
+	}
+}
+
+@media (max-width: 545px) {
+	.serv {
+	    margin-bottom: 0px;
+	}
+}
+
+@media (max-width: 535px) {
+	.questions__accordion_icon {
+	    background-size: 80%;
+	}
+	.callb__checkbox__title {
+	    font-size: 20px;
+	}
+	.callb__checkbox {
+	    max-width: 445px;
+	}
+	.serv__types__row {
+		flex-wrap: nowrap;
+		display: block;
+	}
+	.serv__types__types {
+		display: flex;
+		align-items: center;
+	}
+	.serv__type__el__title {
+	    font-size: 17px;
+	}
+	.serv__type__el {
+	    width: 230px;
+	}
+	.price__item__text {
+	    font-size: 2.63vw;
+	}
+	.price__item__cost {
+	    font-size: 2.85vw;
+	}
+} 
+
+@media (max-width: 520px) {
+	.slick__slider__doc div {
+	    height: 470px;
+	}
+	.slick__slider__clin div {
+	    height: 470px;
+	}
+	.appoint__button {
+	    width: 323px;
+	    height: 68px;
+	}
+	.appoint__button a {
+	    font-size: 35px;
+	}
+} 
+
+@media (max-width: 515px) {
+	.top__info__title {
+	    line-height: 43px;
+	    font-size: 33px;
+	}
+	.top__info__text {
+	    font-size: 22px;
+	    line-height: 25px;
+	}
+}
+
+@media (max-width: 500px) {
+	.menu__list {
+	    width: 129%;
+	}
+	.footer__info__row {
+	    width: 300px;
+	}
+	.footer__info__column {
+	    margin-bottom: 100px;
+	}
+	.title {
+		font-size: 8vw;
+	}
+}
+
+@media (max-width: 490px) {
+	.serv__type__el__icon img {
+		max-width: 100%;
+	}
+	.serv__type__el__icon {
+	    width: 17vw;
+	}
+	.serv__types__types {
+	    justify-content: center;
+	}
+	.serv__type__el {
+	    width: 178px;
+	}
+	.serv__type__el__title {
+	    max-width: 115px;
+	}
+	.serv__type__el {
+		height: 75px;
+	}
+	.serv__type__el__title {
+	    max-width: 135px;
+	}
+}
+
+@media (max-width: 480px) {
+	.prices__block__par {
+	    font-size: 16px;
+	}
+	.prices__blocks__el {
+	    width: 270px;
+	}
+	.prices__blocks {
+	    max-width: 270px;
+	}
+	.prices__blocks__title {
+	    font-size: 25px;
+	}
+	.top__info__title {
+	    line-height: 41px;
+	    font-size: 32px;
+	}
+}
+
+@media (max-width: 470px) {
+	.slick__slider__doc div {
+	    height: 350px;
+	}
+	.slick__slider__clin div {
+	    height: 350px;
+	}
+}
+
+@media (max-width: 465px) {
+	.serv__microsc__under {
+	    font-size: 18px;
+	}
+	.serv__microsc__info__text__title {
+	    font-size: 32px;
+	}
+	.callb__checkbox__title {
+	    font-size: 19px;
+	}
+	.footer__info__column {
+		width: 264px;
+	}
+	.callb__checkbox input {
+	    scale: 1.6;
+	}
+}
+
+@media (max-width: 460px) {
+	.top__info__title {
+	    line-height: 39px;
+	    font-size: 30px;
+	}
+	.top__info__text {
+	    font-size: 20px;
+	    line-height: 24px;
+	}
+	.top__button__secondpage a {
+	    font-size: 16px;
+	}
+}
+
+@media (max-width: 455px) {
+	.process__info__el__title {
+	    font-size: 22px;
+	    line-height: 29px;
+	}
+	.process__info__el__icon {
+	    width: 92%;
+	}
+	.process__info__el__text {
+	    font-size: 18px;
+	    line-height: 25px;
+	}
+	.process__info__el {
+	    height: 392px;
+	}
+	.process__row {
+	    width: 85%;
+	}
+}
+
+@media (max-width: 445px) {
+	.questions__accordion_icon {
+	    right: 5px;
+	    top: 28px;
+	}
+	.__active_icon {
+		right: 5px;
+		top: 28px;
+	}
+}
+
+@media (max-width: 435px) {
+	.we__people__row {
+		width: 300px;
+	}
+	.we__people__column {
+	    width: 300px;
+	}
+}
+
+@media (max-width: 425px) {
+	#calc__name {
+	    width: 95%;
+	}
+	#calc__phone {
+	    width: 95%;
+	}
+	.calc {
+	    padding-top: 45px;
+	}
+	.top__info__title {
+	    line-height: 34px;
+	    font-size: 26px;
+	}
+	.top__info__text {
+	    font-size: 15px;
+	    line-height: 19px;
+	}
+	.top__button__secondpage a {
+	    font-size: 15px;
+	    padding: 18px 42px;
+	}
+	.top__info {
+	    padding-top: 65px;
+	}
+}
+
+@media (max-width: 420px) {
+	.top__button a {
+	    font-size: 23px;
+	    padding: 12px 15px;
+	}
+	.top__desc__el__text {
+	    font-size: 12px;
+	}
+	.top__desc__el__title {
+	    font-size: 25px;
+	}
+	.header__info__ad-logo {
+	    width: 48px;
+	}
+	.nav {
+	    height: 55px;
+	}
+	.btn__menu {
+	    padding-top: 15px;
+	}
+	.top__desc {
+	    padding-top: 35px;
+	    margin-bottom: 49px;
+	}
+	.top__top-part {
+	    padding-top: 40px;
+	}
+	.top__desc__el__title {
+	    font-size: 22px;
+	}
+	.top__title {
+	    font-size: 11px;
+	}
+}
+
+@media (max-width: 410px) {
+	.price__item__text {
+	    font-size: 2.5vw;
+	}
+	.price__item__cost {
+	    font-size: 2.65vw;
+	}
+}
+
+@media (max-width: 405px) {
+	.menu__list {
+	    width: 135%;
+	}
+	.calc {
+		padding-bottom: 0;
+	}
+	.slick__slider__doc div {
+	    height: 280px;
+	}
+	.slick__slider__doc {
+	    max-width: 68%;
+	}
+	.slick__slider__clin div {
+	    height: 280px;
+	}
+	.slick__slider__clin {
+	    max-width: 68%;
+	}
+	.certif {
+	    padding: 20px 0;
+	}
+	.footer__info__column, .footer__info__row {
+	    font-size: 22px;
+	    width: 235px;
+	}
+}
+
+@media (max-width: 400px) {
+	.impl__info__row {
+	    max-width: 85%;
+	}
+	.adv__info__col__el__title {
+	    font-size: 19px;
+	    line-height: 23px;
+	}
+	.adv__info__col__el__text {
+	    font-size: 19px;
+	    line-height: 23px;
+	}
+	.slick__slider__doc, .slick__slider__clin {
+	    max-width: 69vw;
+	}
+	.slick-slide {
+		height: 100vw;
+	}
+	.slick__slider__doc div, .slick__slider__clin div {
+	    height: 86vw;
+	    width: 72vw;
+	}
+	.serv__type__el__icon {
+	    width: 20vw;
+	}
+}
+
+@media (max-width: 395px) {
+	.serv__microsc {
+	    padding: 12px 25px;
+	}
+	.serv__microsc__info__text__desc {
+	    font-size: 21px;
+	}
+	.serv__microsc__info__text__title {
+	    font-size: 30px;
+	}
+	.serv__microsc__under {
+	    font-size: 17px;
+	}
+	.p5__price__el__text___text {
+	    font-size: 17px;
+	}
+	.p5__price__el__text__title {
+	    font-size: 24px;
+	    line-height: 30px;
+	}
+}
+
+@media (max-width: 380px) {
+	.top__button a {
+	    font-size: 21px;
+	    padding: 11px 15px;
+	}
+}
+
+@media (max-width: 375px) {
+	.calc__form__checkbox__title {
+	    font-size: 15px;
+	}
+	.callb__checkbox__title {
+	    font-size: 17px;
+	}
+	.process__info__el {
+	    height: 397px;
+	}
+	.top__info__title {
+	    line-height: 30px;
+	    font-size: 23px;
+	}
+	.serv__type__el {
+	    width: 123px;
+	}
+	.callb__form__button {
+	    width: 68%;
+	}
+	.callb__form__button {
+	    font-size: 32px;
+	    height: 75px;
+	}
+	.callb__form__textarea {
+	    margin-bottom: 30px;
+	}
+	#callb_textarea + label::before {
+		top: -350px;
+	}
+}
+
+@media (max-width: 355px) {
+	.top__info__main__text {
+	    font-size: 7vw;
+	    line-height: 9vw;
+	}
+	.slick__slider__doc div, .slick__slider__clin div {
+	    height: 83vw;
+	    width: 71vw;
+	}
+}
+
+@media (max-width: 350px) {
+	.menu__list {
+	    width: 143%;
+	}
+	.appoint__button {
+	    width: 273px;
+	    height: 68px;
+	}
+	.adv__info__col__el__title {
+	    font-size: 17px;
+	    line-height: 21px;
+	}
+	.p5__price__el__text__title {
+	    font-size: 17px;
+	    line-height: 21px;
+	}
+	.p5__price__el__text___text {
+	    font-size: 16px;
+	    line-height: 17px;
+	}
+	.slick__slider__doc, .slick__slider__clin {
+	    max-width: 65vw;
+	}
+	.price__item__text {
+	    font-size: 2.4vw;
+	}
+}
+
+@media (max-width: 335px) {
+	.top__button a {
+	    font-size: 19px;
+	    padding: 11px 15px;
+	}
+	.top__desc {
+	    margin-bottom: 65px;
+	}
+	.serv__microsc__info__text__title {
+	    font-size: 28px;
+	}
+	.top__offer__el__title {
+	    font-size: 23px;
+	}
+}
+
+@media (max-width: 325px) {
+	.top__info__title {
+	    line-height: 26px;
+	    font-size: 21px;
+	}
+	.process__info__el {
+	    height: 405px;
+	}
+}
+
+
+@media(min-width: 2180px) {
+	.callb {
+	    background-size: 35%;
+	}
+}
